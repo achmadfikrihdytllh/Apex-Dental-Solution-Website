@@ -1,0 +1,1966 @@
+.DENTAL-CLINIC {
+  background-color: #ffffff;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+}
+
+.DENTAL-CLINIC .div {
+  background-color: #ffffff;
+  overflow: hidden;
+  border: 1px solid;
+  border-color: #000000;
+  width: 1280px;
+  height: 8352px;
+  position: relative;
+}
+
+.DENTAL-CLINIC .overlap {
+  position: absolute;
+  width: 1282px;
+  height: 2723px;
+  top: 0;
+  left: -2px;
+}
+
+.DENTAL-CLINIC .RFG {
+  width: 1276px;
+  height: 584px;
+  top: 2047px;
+  left: 2px;
+  position: absolute;
+  object-fit: cover;
+}
+
+.DENTAL-CLINIC .element {
+  position: absolute;
+  width: 1280px;
+  height: 727px;
+  top: 1147px;
+  left: 2px;
+  object-fit: cover;
+}
+
+.DENTAL-CLINIC .plus {
+  width: 61px;
+  height: 62px;
+  top: 97px;
+  left: 567px;
+  position: absolute;
+  object-fit: cover;
+}
+
+.DENTAL-CLINIC .mask-group {
+  position: absolute;
+  width: 1280px;
+  height: 606px;
+  top: 48px;
+  left: 2px;
+}
+
+.DENTAL-CLINIC .rectangle {
+  position: absolute;
+  width: 40px;
+  height: 64px;
+  top: 554px;
+  left: 1242px;
+  background-color: #00a9d3;
+  border-radius: 20px 0px 0px 20px;
+}
+
+.DENTAL-CLINIC .instagram {
+  top: 560px;
+  left: 1256px;
+  position: absolute;
+  width: 17px;
+  height: 20px;
+  object-fit: cover;
+}
+
+.DENTAL-CLINIC .facebook {
+  top: 593px;
+  left: 1259px;
+  position: absolute;
+  width: 11px;
+  height: 17px;
+  object-fit: cover;
+}
+
+.DENTAL-CLINIC .text-wrapper {
+  position: absolute;
+  width: 566px;
+  top: 251px;
+  left: 96px;
+  font-family: "Calibri-BoldItalic", Helvetica;
+  font-weight: 700;
+  font-style: italic;
+  color: #00a9d3;
+  font-size: 75px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.DENTAL-CLINIC .p {
+  position: absolute;
+  top: 462px;
+  left: 101px;
+  font-family: "Calibri-BoldItalic", Helvetica;
+  font-weight: 700;
+  font-style: italic;
+  color: #00a9d3;
+  font-size: 32px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.DENTAL-CLINIC .text-wrapper-2 {
+  position: absolute;
+  top: 309px;
+  left: 90px;
+  font-family: "Calibri-Bold", Helvetica;
+  font-weight: 700;
+  color: #171042;
+  font-size: 128px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.DENTAL-CLINIC .img {
+  width: 25px;
+  height: 31px;
+  top: 503px;
+  left: 42px;
+  position: absolute;
+  object-fit: cover;
+}
+
+.DENTAL-CLINIC .plus-2 {
+  width: 25px;
+  height: 31px;
+  top: 1290px;
+  left: 56px;
+  position: absolute;
+  object-fit: cover;
+}
+
+.DENTAL-CLINIC .plus-3 {
+  width: 25px;
+  height: 31px;
+  top: 1672px;
+  left: 20px;
+  position: absolute;
+  object-fit: cover;
+}
+
+.DENTAL-CLINIC .plus-4 {
+  width: 49px;
+  height: 52px;
+  top: 544px;
+  left: 660px;
+  position: absolute;
+  object-fit: cover;
+}
+
+.DENTAL-CLINIC .plus-5 {
+  width: 49px;
+  height: 52px;
+  top: 188px;
+  left: 715px;
+  position: absolute;
+  object-fit: cover;
+}
+
+.DENTAL-CLINIC .plus-6 {
+  width: 49px;
+  height: 52px;
+  top: 118px;
+  left: 1182px;
+  position: absolute;
+  object-fit: cover;
+}
+
+.DENTAL-CLINIC .plus-7 {
+  width: 64px;
+  height: 64px;
+  top: 359px;
+  left: 10px;
+  position: absolute;
+  object-fit: cover;
+}
+
+.DENTAL-CLINIC .plus-8 {
+  width: 79px;
+  height: 84px;
+  top: 104px;
+  left: 804px;
+  position: absolute;
+  object-fit: cover;
+}
+
+.DENTAL-CLINIC .plus-9 {
+  width: 79px;
+  height: 84px;
+  top: 584px;
+  left: 499px;
+  position: absolute;
+  object-fit: cover;
+}
+
+.DENTAL-CLINIC .plus-10 {
+  width: 47px;
+  height: 47px;
+  top: 257px;
+  left: 531px;
+  position: absolute;
+  object-fit: cover;
+}
+
+.DENTAL-CLINIC .plus-11 {
+  width: 54px;
+  height: 60px;
+  top: 594px;
+  left: 27px;
+  position: absolute;
+  object-fit: cover;
+}
+
+.DENTAL-CLINIC .plus-12 {
+  width: 54px;
+  height: 60px;
+  top: 1363px;
+  left: 1152px;
+  position: absolute;
+  object-fit: cover;
+}
+
+.DENTAL-CLINIC .plus-13 {
+  width: 54px;
+  height: 60px;
+  top: 1688px;
+  left: 1188px;
+  position: absolute;
+  object-fit: cover;
+}
+
+.DENTAL-CLINIC .plus-14 {
+  width: 42px;
+  height: 44px;
+  top: 1782px;
+  left: 425px;
+  position: absolute;
+  object-fit: cover;
+}
+
+.DENTAL-CLINIC .line {
+  position: absolute;
+  width: 522px;
+  height: 3px;
+  top: 510px;
+  left: 101px;
+}
+
+.DENTAL-CLINIC .text-wrapper-3 {
+  position: absolute;
+  width: 527px;
+  height: 60px;
+  top: 524px;
+  left: 104px;
+  font-family: "Calibri-Bold", Helvetica;
+  font-weight: 700;
+  color: #191919;
+  font-size: 16px;
+  text-align: justify;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.DENTAL-CLINIC .rectangle-2 {
+  position: absolute;
+  width: 1280px;
+  height: 97px;
+  top: 0;
+  left: 2px;
+  background: linear-gradient(180deg, rgb(0, 181, 209) 0%, rgb(79, 139, 255) 100%);
+}
+
+.DENTAL-CLINIC .logo {
+  width: 84px;
+  height: 71px;
+  top: 9px;
+  left: 12px;
+  position: absolute;
+  object-fit: cover;
+}
+
+.DENTAL-CLINIC .text-wrapper-4 {
+  position: absolute;
+  width: 52px;
+  top: 39px;
+  left: 379px;
+  font-family: "Calibri-BoldItalic", Helvetica;
+  font-weight: 700;
+  font-style: italic;
+  color: #ffffff;
+  font-size: 16px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.DENTAL-CLINIC .text-wrapper-5 {
+  position: absolute;
+  width: 74px;
+  top: 39px;
+  left: 606px;
+  font-family: "Calibri-BoldItalic", Helvetica;
+  font-weight: 700;
+  font-style: italic;
+  color: #ffffff;
+  font-size: 16px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.DENTAL-CLINIC .text-wrapper-6 {
+  position: absolute;
+  width: 107px;
+  top: 39px;
+  left: 740px;
+  font-family: "Calibri-BoldItalic", Helvetica;
+  font-weight: 700;
+  font-style: italic;
+  color: #ffffff;
+  font-size: 16px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.DENTAL-CLINIC .text-wrapper-7 {
+  position: absolute;
+  width: 70px;
+  top: 39px;
+  left: 907px;
+  font-family: "Calibri-BoldItalic", Helvetica;
+  font-weight: 700;
+  font-style: italic;
+  color: #ffffff;
+  font-size: 14px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.DENTAL-CLINIC .rectangle-3 {
+  position: absolute;
+  width: 231px;
+  height: 47px;
+  top: 611px;
+  left: 101px;
+  border-radius: 50px;
+  background: linear-gradient(180deg, rgb(0, 181, 209) 0%, rgb(0, 150, 213) 100%);
+}
+
+.DENTAL-CLINIC .text-wrapper-8 {
+  position: absolute;
+  width: 291px;
+  top: 622px;
+  left: 41px;
+  font-family: "Calibri-BoldItalic", Helvetica;
+  font-weight: 700;
+  font-style: italic;
+  color: #000000;
+  font-size: 16px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.DENTAL-CLINIC .right-arrow {
+  position: absolute;
+  width: 90px;
+  height: 90px;
+  top: 806px;
+  left: 619px;
+}
+
+.DENTAL-CLINIC .element-long {
+  position: absolute;
+  width: 47px;
+  height: 47px;
+  top: 611px;
+  left: 267px;
+  object-fit: cover;
+}
+
+.DENTAL-CLINIC .tg {
+  width: 395px;
+  top: 528px;
+  left: 887px;
+  position: absolute;
+  height: 346px;
+  object-fit: cover;
+}
+
+.DENTAL-CLINIC .tg-2 {
+  width: 357px;
+  top: 1307px;
+  left: 2px;
+  position: absolute;
+  height: 346px;
+  object-fit: cover;
+}
+
+.DENTAL-CLINIC .rectangle-4 {
+  position: absolute;
+  width: 1165px;
+  height: 516px;
+  top: 706px;
+  left: 66px;
+  border-radius: 30px 30px 0px 0px;
+  background: linear-gradient(180deg, rgb(0, 169, 211) 0%, rgb(0, 150, 213) 100%);
+}
+
+.DENTAL-CLINIC .mask-group-2 {
+  position: absolute;
+  width: 520px;
+  height: 462px;
+  top: 737px;
+  left: 94px;
+}
+
+.DENTAL-CLINIC .text-wrapper-9 {
+  position: absolute;
+  width: 331px;
+  top: 751px;
+  left: 735px;
+  font-family: "Calibri-BoldItalic", Helvetica;
+  font-weight: 700;
+  font-style: italic;
+  color: #ffffff;
+  font-size: 24px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.DENTAL-CLINIC .text-wrapper-10 {
+  position: absolute;
+  top: 832px;
+  left: 669px;
+  font-family: "Calibri-BoldItalic", Helvetica;
+  font-weight: 700;
+  font-style: italic;
+  color: #ffffff;
+  font-size: 14px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.DENTAL-CLINIC .text-wrapper-11 {
+  position: absolute;
+  top: 875px;
+  left: 669px;
+  font-family: "Calibri-BoldItalic", Helvetica;
+  font-weight: 700;
+  font-style: italic;
+  color: #ffffff;
+  font-size: 14px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.DENTAL-CLINIC .text-wrapper-12 {
+  position: absolute;
+  top: 917px;
+  left: 669px;
+  font-family: "Calibri-BoldItalic", Helvetica;
+  font-weight: 700;
+  font-style: italic;
+  color: #ffffff;
+  font-size: 14px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.DENTAL-CLINIC .text-wrapper-13 {
+  position: absolute;
+  top: 961px;
+  left: 669px;
+  font-family: "Calibri-BoldItalic", Helvetica;
+  font-weight: 700;
+  font-style: italic;
+  color: #ffffff;
+  font-size: 14px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.DENTAL-CLINIC .text-wrapper-14 {
+  position: absolute;
+  top: 1050px;
+  left: 683px;
+  font-family: "Calibri-BoldItalic", Helvetica;
+  font-weight: 700;
+  font-style: italic;
+  color: #ffffff;
+  font-size: 14px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.DENTAL-CLINIC .line-2 {
+  position: absolute;
+  width: 441px;
+  height: 2px;
+  top: 853px;
+  left: 666px;
+}
+
+.DENTAL-CLINIC .line-3 {
+  position: absolute;
+  width: 441px;
+  height: 2px;
+  top: 895px;
+  left: 667px;
+}
+
+.DENTAL-CLINIC .line-4 {
+  position: absolute;
+  width: 441px;
+  height: 2px;
+  top: 980px;
+  left: 669px;
+}
+
+.DENTAL-CLINIC .line-5 {
+  position: absolute;
+  width: 441px;
+  height: 2px;
+  top: 1071px;
+  left: 669px;
+}
+
+.DENTAL-CLINIC .line-6 {
+  position: absolute;
+  width: 441px;
+  height: 2px;
+  top: 938px;
+  left: 669px;
+}
+
+.DENTAL-CLINIC .rectangle-5 {
+  position: absolute;
+  width: 442px;
+  height: 28px;
+  top: 1004px;
+  left: 668px;
+  border-radius: 20px;
+  border: 1px solid;
+  border-color: #ffffff;
+}
+
+.DENTAL-CLINIC .text-wrapper-15 {
+  position: absolute;
+  width: 178px;
+  top: 1010px;
+  left: 902px;
+  font-family: "Calibri-BoldItalic", Helvetica;
+  font-weight: 700;
+  font-style: italic;
+  color: #ffffff;
+  font-size: 14px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.DENTAL-CLINIC .rectangle-6 {
+  position: absolute;
+  width: 222px;
+  height: 26px;
+  top: 1005px;
+  left: 669px;
+  background-color: #d9d9d9;
+  border-radius: 20px 0px 0px 20px;
+}
+
+.DENTAL-CLINIC .rectangle-7 {
+  position: absolute;
+  width: 164px;
+  height: 38px;
+  top: 1123px;
+  left: 946px;
+  background-color: #d9d9d9;
+  border-radius: 20px;
+}
+
+.DENTAL-CLINIC .text-wrapper-16 {
+  position: absolute;
+  width: 124px;
+  top: 1011px;
+  left: 718px;
+  font-family: "Calibri-BoldItalic", Helvetica;
+  font-weight: 700;
+  font-style: italic;
+  color: #000000;
+  font-size: 14px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.DENTAL-CLINIC .text-wrapper-17 {
+  position: absolute;
+  width: 197px;
+  top: 1133px;
+  left: 913px;
+  font-family: "Calibri-BoldItalic", Helvetica;
+  font-weight: 700;
+  font-style: italic;
+  color: #000000;
+  font-size: 12px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.DENTAL-CLINIC .element-long-2 {
+  position: absolute;
+  width: 32px;
+  height: 33px;
+  top: 1125px;
+  left: 1068px;
+  object-fit: cover;
+}
+
+.DENTAL-CLINIC .element-2 {
+  position: absolute;
+  width: 309px;
+  height: 564px;
+  top: 132px;
+  left: 875px;
+  object-fit: cover;
+}
+
+.DENTAL-CLINIC .mask-group-3 {
+  position: absolute;
+  width: 406px;
+  height: 412px;
+  top: 212px;
+  left: 694px;
+}
+
+.DENTAL-CLINIC .text-wrapper-18 {
+  position: absolute;
+  top: 1261px;
+  left: 513px;
+  font-family: "Calibri-Bold", Helvetica;
+  font-weight: 700;
+  color: #171042;
+  font-size: 36px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.DENTAL-CLINIC .text-wrapper-19 {
+  top: 2334px;
+  left: 549px;
+  color: #171042;
+  position: absolute;
+  font-family: "Calibri-Bold", Helvetica;
+  font-weight: 700;
+  font-size: 36px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.DENTAL-CLINIC .rectangle-8 {
+  position: absolute;
+  width: 210px;
+  height: 6px;
+  top: 1313px;
+  left: 537px;
+  border: 1px solid;
+  border-color: transparent;
+  border-image: linear-gradient(to bottom, rgb(0, 179, 208), rgb(0, 179, 208)) 1;
+  background: linear-gradient(180deg, rgb(0, 181, 209) 0%, rgb(0, 181, 209) 100%);
+}
+
+.DENTAL-CLINIC .rectangle-9 {
+  position: absolute;
+  width: 210px;
+  height: 6px;
+  top: 2386px;
+  left: 537px;
+  border: 1px solid;
+  border-color: transparent;
+  border-image: linear-gradient(to bottom, rgb(0, 179, 208), rgb(0, 179, 208)) 1;
+  background: linear-gradient(180deg, rgb(0, 181, 209) 0%, rgb(0, 181, 209) 100%);
+}
+
+.DENTAL-CLINIC .rectangle-10 {
+  position: absolute;
+  width: 300px;
+  height: 439px;
+  top: 1371px;
+  left: 103px;
+  background-color: #ffffff;
+  border-radius: 39px;
+  box-shadow: 10px 4px 20px 5px #00000040;
+}
+
+.DENTAL-CLINIC .rectangle-11 {
+  position: absolute;
+  width: 300px;
+  height: 439px;
+  top: 1371px;
+  left: 489px;
+  background-color: #ffffff;
+  border-radius: 39px;
+  box-shadow: 10px 4px 20px 5px #00000040;
+}
+
+.DENTAL-CLINIC .rectangle-12 {
+  position: absolute;
+  width: 300px;
+  height: 439px;
+  top: 1371px;
+  left: 862px;
+  background-color: #fffdfd;
+  border-radius: 39px;
+  box-shadow: 10px 4px 20px 5px #00000040;
+}
+
+.DENTAL-CLINIC .ellipse {
+  position: absolute;
+  width: 133px;
+  height: 130px;
+  top: 1397px;
+  left: 194px;
+  background-color: #ffffff;
+  border-radius: 66.5px/65px;
+  border: 1px solid;
+  border-color: #0096d5;
+}
+
+.DENTAL-CLINIC .ellipse-2 {
+  position: absolute;
+  width: 117px;
+  height: 114px;
+  top: 1405px;
+  left: 202px;
+  border-radius: 58.5px/57px;
+  background: linear-gradient(180deg, rgb(0, 150, 213) 0%, rgb(0, 150, 213) 100%);
+}
+
+.DENTAL-CLINIC .ellipse-3 {
+  position: absolute;
+  width: 133px;
+  height: 130px;
+  top: 1397px;
+  left: 572px;
+  background-color: #ffffff;
+  border-radius: 66.5px/65px;
+  border: 1px solid;
+  border-color: #0096d5;
+}
+
+.DENTAL-CLINIC .ellipse-4 {
+  position: absolute;
+  width: 133px;
+  height: 130px;
+  top: 1397px;
+  left: 955px;
+  background-color: #ffffff;
+  border-radius: 66.5px/65px;
+  border: 1px solid;
+  border-color: #0096d5;
+}
+
+.DENTAL-CLINIC .ellipse-5 {
+  position: absolute;
+  width: 117px;
+  height: 114px;
+  top: 1405px;
+  left: 580px;
+  border-radius: 58.5px/57px;
+  background: linear-gradient(180deg, rgb(0, 150, 213) 0%, rgb(0, 150, 213) 100%);
+}
+
+.DENTAL-CLINIC .ellipse-6 {
+  position: absolute;
+  width: 117px;
+  height: 114px;
+  top: 1405px;
+  left: 963px;
+  border-radius: 58.5px/57px;
+  background: linear-gradient(180deg, rgb(0, 150, 213) 0%, rgb(0, 150, 213) 100%);
+}
+
+.DENTAL-CLINIC .oi {
+  position: absolute;
+  width: 64px;
+  height: 92px;
+  top: 1405px;
+  left: 228px;
+  object-fit: cover;
+}
+
+.DENTAL-CLINIC .sd {
+  position: absolute;
+  width: 100px;
+  height: 93px;
+  top: 1418px;
+  left: 583px;
+  object-fit: cover;
+}
+
+.DENTAL-CLINIC .we {
+  position: absolute;
+  width: 83px;
+  height: 74px;
+  top: 1420px;
+  left: 976px;
+  object-fit: cover;
+}
+
+.DENTAL-CLINIC .text-wrapper-20 {
+  position: absolute;
+  width: 245px;
+  height: 200px;
+  top: 1581px;
+  left: 129px;
+  font-family: "Calibri-Bold", Helvetica;
+  font-weight: 700;
+  color: #020202;
+  font-size: 16px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.DENTAL-CLINIC .text-wrapper-21 {
+  position: absolute;
+  height: 20px;
+  top: 1557px;
+  left: 186px;
+  font-family: "Calibri-BoldItalic", Helvetica;
+  font-weight: 700;
+  font-style: italic;
+  color: #020202;
+  font-size: 16px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.DENTAL-CLINIC .text-wrapper-22 {
+  position: absolute;
+  width: 250px;
+  height: 200px;
+  top: 1574px;
+  left: 517px;
+  font-family: "Calibri-Bold", Helvetica;
+  font-weight: 700;
+  color: #020202;
+  font-size: 16px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.DENTAL-CLINIC .text-wrapper-23 {
+  position: absolute;
+  width: 250px;
+  height: 140px;
+  top: 1597px;
+  left: 890px;
+  font-family: "Calibri-Bold", Helvetica;
+  font-weight: 700;
+  color: #020202;
+  font-size: 16px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.DENTAL-CLINIC .text-wrapper-24 {
+  position: absolute;
+  height: 20px;
+  top: 1557px;
+  left: 588px;
+  font-family: "Calibri-BoldItalic", Helvetica;
+  font-weight: 700;
+  font-style: italic;
+  color: #020202;
+  font-size: 16px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.DENTAL-CLINIC .text-wrapper-25 {
+  position: absolute;
+  height: 20px;
+  top: 1557px;
+  left: 940px;
+  font-family: "Calibri-BoldItalic", Helvetica;
+  font-weight: 700;
+  font-style: italic;
+  color: #020202;
+  font-size: 16px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.DENTAL-CLINIC .rectangle-13 {
+  position: absolute;
+  width: 1280px;
+  height: 418px;
+  top: 1875px;
+  left: 0;
+  background: linear-gradient(180deg, rgb(0, 150, 213) 0%, rgb(0, 169, 211) 100%);
+}
+
+.DENTAL-CLINIC .kami-dengan-senang {
+  position: absolute;
+  width: 479px;
+  height: 200px;
+  top: 2016px;
+  left: 160px;
+  font-family: "Calibri-BoldItalic", Helvetica;
+  font-weight: 700;
+  font-style: italic;
+  color: #ffffff;
+  font-size: 16px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.DENTAL-CLINIC .element-3 {
+  position: absolute;
+  width: 345px;
+  height: 376px;
+  top: 1896px;
+  left: 843px;
+  object-fit: cover;
+}
+
+.DENTAL-CLINIC .mask-group-4 {
+  position: absolute;
+  width: 297px;
+  height: 306px;
+  top: 1931px;
+  left: 865px;
+}
+
+.DENTAL-CLINIC .rectangle-14 {
+  position: absolute;
+  width: 426px;
+  height: 300px;
+  top: 2423px;
+  left: 2px;
+  background: linear-gradient(180deg, rgb(0, 150, 213) 0%, rgb(0, 179, 208) 100%);
+}
+
+.DENTAL-CLINIC .rectangle-15 {
+  position: absolute;
+  width: 426px;
+  height: 300px;
+  top: 2423px;
+  left: 429px;
+  object-fit: cover;
+}
+
+.DENTAL-CLINIC .text-wrapper-26 {
+  position: absolute;
+  top: 2440px;
+  left: 132px;
+  font-family: "Calibri-BoldItalic", Helvetica;
+  font-weight: 700;
+  font-style: italic;
+  color: #ffffff;
+  font-size: 36px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.DENTAL-CLINIC .rectangle-16 {
+  position: absolute;
+  width: 426px;
+  height: 300px;
+  top: 2423px;
+  left: 855px;
+  background: linear-gradient(180deg, rgb(0, 150, 213) 0%, rgb(0, 181, 209) 100%);
+}
+
+.DENTAL-CLINIC .text-wrapper-27 {
+  position: absolute;
+  top: 2434px;
+  left: 979px;
+  font-family: "Calibri-BoldItalic", Helvetica;
+  font-weight: 700;
+  font-style: italic;
+  color: #ffffff;
+  font-size: 36px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.DENTAL-CLINIC .text-wrapper-28 {
+  position: absolute;
+  width: 305px;
+  height: 168px;
+  top: 2516px;
+  left: 63px;
+  font-family: "Calibri-BoldItalic", Helvetica;
+  font-weight: 700;
+  font-style: italic;
+  color: #ffffff;
+  font-size: 16px;
+  text-align: justify;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.DENTAL-CLINIC .text-wrapper-29 {
+  position: absolute;
+  width: 305px;
+  height: 168px;
+  top: 2492px;
+  left: 916px;
+  font-family: "Calibri-BoldItalic", Helvetica;
+  font-weight: 700;
+  font-style: italic;
+  color: #ffffff;
+  font-size: 16px;
+  text-align: justify;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.DENTAL-CLINIC .text-wrapper-30 {
+  position: absolute;
+  width: 55px;
+  top: 39px;
+  left: 491px;
+  font-family: "Calibri-BoldItalic", Helvetica;
+  font-weight: 700;
+  font-style: italic;
+  color: #ffffff;
+  font-size: 16px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.DENTAL-CLINIC .text-wrapper-31 {
+  position: absolute;
+  width: 631px;
+  height: 164px;
+  top: 1848px;
+  left: 158px;
+  font-family: "Calibri-Bold", Helvetica;
+  font-weight: 700;
+  color: #ffffff;
+  font-size: 36px;
+  text-align: justify;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.DENTAL-CLINIC .overlap-group {
+  position: absolute;
+  width: 1278px;
+  height: 667px;
+  top: 3023px;
+  left: 0;
+}
+
+.DENTAL-CLINIC .RFG-2 {
+  width: 1278px;
+  height: 630px;
+  top: 0;
+  left: 0;
+  position: absolute;
+  object-fit: cover;
+}
+
+.DENTAL-CLINIC .text-wrapper-32 {
+  position: absolute;
+  top: 47px;
+  left: 522px;
+  font-family: "Calibri-Bold", Helvetica;
+  font-weight: 700;
+  color: #171042;
+  font-size: 36px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.DENTAL-CLINIC .text-wrapper-33 {
+  position: absolute;
+  top: 623px;
+  left: 590px;
+  font-family: "Calibri-Bold", Helvetica;
+  font-weight: 700;
+  color: #171042;
+  font-size: 36px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.DENTAL-CLINIC .rectangle-17 {
+  position: absolute;
+  width: 210px;
+  height: 6px;
+  top: 99px;
+  left: 536px;
+  border: 1px solid;
+  border-color: transparent;
+  border-image: linear-gradient(to bottom, rgb(0, 179, 208), rgb(0, 179, 208)) 1;
+  background: linear-gradient(180deg, rgb(0, 181, 209) 0%, rgb(0, 181, 209) 100%);
+}
+
+.DENTAL-CLINIC .mask-group-5 {
+  position: absolute;
+  width: 962px;
+  height: 434px;
+  top: 154px;
+  left: 145px;
+}
+
+.DENTAL-CLINIC .screenshot {
+  position: absolute;
+  width: 327px;
+  height: 439px;
+  top: 154px;
+  left: 780px;
+  object-fit: cover;
+}
+
+.DENTAL-CLINIC .overlap-2 {
+  position: absolute;
+  width: 1280px;
+  height: 396px;
+  top: 4443px;
+  left: 0;
+  background-color: #c4c4c4;
+}
+
+.DENTAL-CLINIC .snapinsta-wrapper {
+  position: absolute;
+  width: 257px;
+  height: 354px;
+  top: 25px;
+  left: 39px;
+  background-image: url(./img/group-1.png);
+  background-size: 100% 100%;
+}
+
+.DENTAL-CLINIC .snapinsta {
+  position: absolute;
+  width: 208px;
+  height: 222px;
+  top: 43px;
+  left: 23px;
+  object-fit: cover;
+}
+
+.DENTAL-CLINIC .group {
+  position: absolute;
+  width: 257px;
+  height: 354px;
+  top: 25px;
+  left: 333px;
+}
+
+.DENTAL-CLINIC .group-2 {
+  position: absolute;
+  width: 257px;
+  height: 354px;
+  top: 25px;
+  left: 633px;
+}
+
+.DENTAL-CLINIC .group-3 {
+  position: absolute;
+  width: 257px;
+  height: 354px;
+  top: 25px;
+  left: 941px;
+}
+
+.DENTAL-CLINIC .overlap-3 {
+  position: absolute;
+  width: 1280px;
+  height: 487px;
+  top: 7824px;
+  left: 0;
+  background-color: #0197d5;
+  box-shadow: 0px 4px 4px #00000040;
+}
+
+.DENTAL-CLINIC .overlap-4 {
+  position: absolute;
+  width: 286px;
+  height: 99px;
+  top: 113px;
+  left: 853px;
+}
+
+.DENTAL-CLINIC .jl-margo-basuki-no {
+  position: absolute;
+  width: 281px;
+  top: 0;
+  left: 5px;
+  font-family: "Calibri-Bold", Helvetica;
+  font-weight: 700;
+  color: #ffffff;
+  font-size: 15px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.DENTAL-CLINIC .element-4 {
+  position: absolute;
+  top: 63px;
+  left: 36px;
+  font-family: "Calibri-Bold", Helvetica;
+  font-weight: 700;
+  color: #ffffff;
+  font-size: 15px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.DENTAL-CLINIC .ellipse-7 {
+  position: absolute;
+  width: 23px;
+  height: 22px;
+  top: 24px;
+  left: 1px;
+  border-radius: 11.5px/11px;
+  background: linear-gradient(180deg, rgb(0, 179, 208) 0%, rgb(0, 180.23, 208.61) 61.48%, rgb(0, 181, 209) 100%);
+}
+
+.DENTAL-CLINIC .ellipse-8 {
+  position: absolute;
+  width: 23px;
+  height: 22px;
+  top: 59px;
+  left: 0;
+}
+
+.DENTAL-CLINIC .location-icon-png {
+  position: absolute;
+  width: 20px;
+  height: 15px;
+  top: 27px;
+  left: 3px;
+  object-fit: cover;
+}
+
+.DENTAL-CLINIC .ff {
+  position: absolute;
+  width: 10px;
+  height: 14px;
+  top: 63px;
+  left: 8px;
+  object-fit: cover;
+}
+
+.DENTAL-CLINIC .about-us-meet-the {
+  position: absolute;
+  top: 55px;
+  left: 170px;
+  font-family: "Calibri-Bold", Helvetica;
+  font-weight: 700;
+  color: #ffffff;
+  font-size: 24px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.DENTAL-CLINIC .text-wrapper-34 {
+  position: absolute;
+  top: 278px;
+  left: 855px;
+  font-family: "Calibri-Bold", Helvetica;
+  font-weight: 700;
+  color: #ffffff;
+  font-size: 15px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.DENTAL-CLINIC .text {
+  position: absolute;
+  top: 53px;
+  left: 439px;
+  font-family: "Calibri-Bold", Helvetica;
+  font-weight: 700;
+  color: #ffffff;
+  font-size: 24px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.DENTAL-CLINIC .text-wrapper-35 {
+  position: absolute;
+  top: 278px;
+  left: 948px;
+  font-family: "Calibri-Bold", Helvetica;
+  font-weight: 700;
+  color: #ffffff;
+  font-size: 15px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.DENTAL-CLINIC .text-wrapper-36 {
+  position: absolute;
+  top: 278px;
+  left: 1036px;
+  font-family: "Calibri-Bold", Helvetica;
+  font-weight: 700;
+  color: #ffffff;
+  font-size: 15px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.DENTAL-CLINIC .logo-2 {
+  width: 180px;
+  height: 41px;
+  top: 57px;
+  left: 877px;
+  position: absolute;
+  object-fit: cover;
+}
+
+.DENTAL-CLINIC .instagram-2 {
+  top: 321px;
+  left: 952px;
+  position: absolute;
+  width: 17px;
+  height: 20px;
+  object-fit: cover;
+}
+
+.DENTAL-CLINIC .facebook-2 {
+  top: 322px;
+  left: 997px;
+  position: absolute;
+  width: 11px;
+  height: 17px;
+  object-fit: cover;
+}
+
+.DENTAL-CLINIC .overlap-5 {
+  position: absolute;
+  width: 1290px;
+  height: 2262px;
+  top: 4913px;
+  left: 0;
+}
+
+.DENTAL-CLINIC .overlap-6 {
+  position: absolute;
+  width: 1290px;
+  height: 2262px;
+  top: 0;
+  left: 0;
+}
+
+.DENTAL-CLINIC .rectangle-18 {
+  position: absolute;
+  width: 1280px;
+  height: 535px;
+  top: 0;
+  left: 0;
+  background: linear-gradient(180deg, rgb(0, 150, 213) 0%, rgb(0, 179, 208) 100%);
+}
+
+.DENTAL-CLINIC .text-wrapper-37 {
+  top: 38px;
+  left: 554px;
+  color: #ffffff;
+  position: absolute;
+  font-family: "Calibri-Bold", Helvetica;
+  font-weight: 700;
+  font-size: 36px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.DENTAL-CLINIC .text-wrapper-38 {
+  top: 546px;
+  left: 531px;
+  color: #171042;
+  position: absolute;
+  font-family: "Calibri-Bold", Helvetica;
+  font-weight: 700;
+  font-size: 36px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.DENTAL-CLINIC .rectangle-19 {
+  position: absolute;
+  width: 210px;
+  height: 6px;
+  top: 94px;
+  left: 535px;
+  background-color: #ffffff;
+  border: 1px solid;
+  border-color: transparent;
+  border-image: linear-gradient(to bottom, rgb(0, 179, 208), rgb(0, 179, 208)) 1;
+}
+
+.DENTAL-CLINIC .rectangle-20 {
+  position: absolute;
+  width: 210px;
+  height: 6px;
+  top: 591px;
+  left: 529px;
+  border: 1px solid;
+  border-color: transparent;
+  border-image: linear-gradient(to bottom, rgb(0, 179, 208), rgb(0, 179, 208)) 1;
+  background: linear-gradient(180deg, rgb(255, 255, 255) 0%, rgb(0, 181, 209) 100%);
+}
+
+.DENTAL-CLINIC .rectangle-21 {
+  position: absolute;
+  width: 210px;
+  height: 6px;
+  top: 1546px;
+  left: 535px;
+  background-color: #00b3d0;
+  border: 1px solid;
+  border-color: transparent;
+  border-image: linear-gradient(to bottom, rgb(0, 179, 208), rgb(0, 179, 208)) 1;
+}
+
+.DENTAL-CLINIC .text-wrapper-39 {
+  position: absolute;
+  width: 183px;
+  height: 131px;
+  top: 396px;
+  left: 184px;
+  font-family: "Calibri-Bold", Helvetica;
+  font-weight: 700;
+  color: #ffffff;
+  font-size: 14px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.DENTAL-CLINIC .gak-perlu-khawatir {
+  position: absolute;
+  width: 183px;
+  height: 131px;
+  top: 394px;
+  left: 556px;
+  font-family: "Calibri-Bold", Helvetica;
+  font-weight: 700;
+  color: #ffffff;
+  font-size: 12px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.DENTAL-CLINIC .dokter-indira-ini {
+  position: absolute;
+  width: 183px;
+  height: 131px;
+  top: 397px;
+  left: 927px;
+  font-family: "Calibri-Bold", Helvetica;
+  font-weight: 700;
+  color: #ffffff;
+  font-size: 14px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.DENTAL-CLINIC .ellipse-9 {
+  position: absolute;
+  width: 192px;
+  height: 192px;
+  top: 151px;
+  left: 180px;
+  object-fit: cover;
+}
+
+.DENTAL-CLINIC .ellipse-10 {
+  position: absolute;
+  width: 192px;
+  height: 193px;
+  top: 150px;
+  left: 910px;
+  object-fit: cover;
+}
+
+.DENTAL-CLINIC .ellipse-11 {
+  position: absolute;
+  width: 192px;
+  height: 193px;
+  top: 150px;
+  left: 545px;
+  object-fit: cover;
+}
+
+.DENTAL-CLINIC .text-wrapper-40 {
+  top: 363px;
+  left: 235px;
+  position: absolute;
+  font-family: "Calibri-BoldItalic", Helvetica;
+  font-weight: 700;
+  font-style: italic;
+  color: #ffffff;
+  font-size: 20px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.DENTAL-CLINIC .text-wrapper-41 {
+  top: 370px;
+  left: 597px;
+  position: absolute;
+  font-family: "Calibri-BoldItalic", Helvetica;
+  font-weight: 700;
+  font-style: italic;
+  color: #ffffff;
+  font-size: 20px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.DENTAL-CLINIC .text-wrapper-42 {
+  top: 370px;
+  left: 965px;
+  position: absolute;
+  font-family: "Calibri-BoldItalic", Helvetica;
+  font-weight: 700;
+  font-style: italic;
+  color: #ffffff;
+  font-size: 20px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.DENTAL-CLINIC .overlap-group-wrapper {
+  position: absolute;
+  width: 1283px;
+  height: 1432px;
+  top: 510px;
+  left: 7px;
+}
+
+.DENTAL-CLINIC .overlap-group-2 {
+  position: relative;
+  width: 1280px;
+  height: 1432px;
+}
+
+.DENTAL-CLINIC .RFG-3 {
+  position: absolute;
+  width: 1272px;
+  height: 1432px;
+  top: 0;
+  left: 1px;
+  object-fit: cover;
+}
+
+.DENTAL-CLINIC .rectangle-22 {
+  position: absolute;
+  width: 1280px;
+  height: 943px;
+  top: 99px;
+  left: 0;
+  background-color: #fffdfd;
+  box-shadow: 15px 4px 20px #00000040;
+}
+
+.DENTAL-CLINIC .rectangle-23 {
+  position: absolute;
+  width: 163px;
+  height: 234px;
+  top: 137px;
+  left: 73px;
+  background-color: #000000;
+  border: 4px solid;
+  border-color: #00b3d0;
+}
+
+.DENTAL-CLINIC .rectangle-24 {
+  position: absolute;
+  width: 163px;
+  height: 234px;
+  top: 137px;
+  left: 313px;
+  background-color: #000000;
+  border: 4px solid;
+  border-color: #00b3d0;
+}
+
+.DENTAL-CLINIC .rectangle-25 {
+  position: absolute;
+  width: 164px;
+  height: 234px;
+  top: 137px;
+  left: 553px;
+  background-color: #000000;
+  border: 4px solid;
+  border-color: #00b3d0;
+}
+
+.DENTAL-CLINIC .rectangle-26 {
+  position: absolute;
+  width: 163px;
+  height: 234px;
+  top: 137px;
+  left: 794px;
+  background-color: #000000;
+  border: 4px solid;
+  border-color: #00b3d0;
+}
+
+.DENTAL-CLINIC .rectangle-27 {
+  position: absolute;
+  width: 163px;
+  height: 234px;
+  top: 137px;
+  left: 1034px;
+  background-color: #000000;
+  border: 4px solid;
+  border-color: #00b3d0;
+}
+
+.DENTAL-CLINIC .text-wrapper-43 {
+  position: absolute;
+  top: 961px;
+  left: 555px;
+  font-family: "Calibri-Bold", Helvetica;
+  font-weight: 700;
+  color: #171042;
+  font-size: 36px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.DENTAL-CLINIC .rectangle-28 {
+  position: absolute;
+  width: 210px;
+  height: 6px;
+  top: 1005px;
+  left: 557px;
+  border: 1px solid;
+  border-color: transparent;
+  border-image: linear-gradient(to bottom, rgb(0, 179, 208), rgb(0, 179, 208)) 1;
+  background: linear-gradient(180deg, rgb(0, 181, 209) 0%, rgb(0, 181, 209) 100%);
+}
+
+.DENTAL-CLINIC .rectangle-29 {
+  position: absolute;
+  width: 429px;
+  height: 386px;
+  top: 1876px;
+  left: 669px;
+  background-color: #ffffff;
+}
+
+.DENTAL-CLINIC .element-d {
+  position: absolute;
+  width: 1280px;
+  height: 177px;
+  top: 1822px;
+  left: 0;
+  object-fit: cover;
+}
+
+.DENTAL-CLINIC .rectangle-30 {
+  position: absolute;
+  width: 1165px;
+  height: 516px;
+  top: 1563px;
+  left: 57px;
+  border-radius: 30px 30px 0px 0px;
+  background: linear-gradient(180deg, rgb(0, 169, 211) 0%, rgb(0, 150, 213) 100%);
+}
+
+.DENTAL-CLINIC .image {
+  left: 850px;
+  position: absolute;
+  width: 342px;
+  height: 389px;
+  top: 1610px;
+  object-fit: cover;
+}
+
+.DENTAL-CLINIC .image-2 {
+  left: 469px;
+  position: absolute;
+  width: 342px;
+  height: 389px;
+  top: 1610px;
+  object-fit: cover;
+}
+
+.DENTAL-CLINIC .image-3 {
+  left: 68px;
+  position: absolute;
+  width: 342px;
+  height: 389px;
+  top: 1610px;
+  object-fit: cover;
+}
+
+.DENTAL-CLINIC .text-wrapper-44 {
+  position: absolute;
+  top: 2083px;
+  left: 152px;
+  font-family: "Calibri-BoldItalic", Helvetica;
+  font-weight: 700;
+  font-style: italic;
+  color: #ffffff;
+  font-size: 14px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.DENTAL-CLINIC .text-wrapper-45 {
+  position: absolute;
+  top: 2174px;
+  left: 150px;
+  font-family: "Calibri-BoldItalic", Helvetica;
+  font-weight: 700;
+  font-style: italic;
+  color: #ffffff;
+  font-size: 14px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.DENTAL-CLINIC .line-7 {
+  position: absolute;
+  width: 441px;
+  height: 2px;
+  top: 2104px;
+  left: 143px;
+}
+
+.DENTAL-CLINIC .line-8 {
+  position: absolute;
+  width: 441px;
+  height: 2px;
+  top: 2195px;
+  left: 143px;
+}
+
+.DENTAL-CLINIC .text-wrapper-46 {
+  position: absolute;
+  top: 4340px;
+  left: 471px;
+  font-family: "Calibri-Bold", Helvetica;
+  font-weight: 700;
+  color: #171042;
+  font-size: 36px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.DENTAL-CLINIC .rectangle-31 {
+  position: absolute;
+  width: 210px;
+  height: 6px;
+  top: 3702px;
+  left: 547px;
+  border: 1px solid;
+  border-color: transparent;
+  border-image: linear-gradient(to bottom, rgb(0, 179, 208), rgb(0, 179, 208)) 1;
+  background: linear-gradient(180deg, rgb(0, 181, 209) 0%, rgb(0, 181, 209) 100%);
+}
+
+.DENTAL-CLINIC .rectangle-32 {
+  position: absolute;
+  width: 210px;
+  height: 6px;
+  top: 4396px;
+  left: 498px;
+  border: 1px solid;
+  border-color: transparent;
+  border-image: linear-gradient(to bottom, rgb(0, 179, 208), rgb(0, 179, 208)) 1;
+  background: linear-gradient(180deg, rgb(0, 181, 209) 0%, rgb(0, 181, 209) 100%);
+}
+
+.DENTAL-CLINIC .text-wrapper-47 {
+  position: absolute;
+  top: 7313px;
+  left: 511px;
+  font-family: "Calibri-Bold", Helvetica;
+  font-weight: 700;
+  color: #171042;
+  font-size: 36px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.DENTAL-CLINIC .rectangle-33 {
+  position: absolute;
+  width: 210px;
+  height: 6px;
+  top: 7369px;
+  left: 535px;
+  border: 1px solid;
+  border-color: transparent;
+  border-image: linear-gradient(to bottom, rgb(0, 179, 208), rgb(0, 179, 208)) 1;
+  background: linear-gradient(180deg, rgb(0, 179, 208) 0%, rgb(0, 181, 209) 100%);
+}
+
+.DENTAL-CLINIC .rectangle-34 {
+  position: absolute;
+  width: 428px;
+  height: 300px;
+  top: 2723px;
+  left: 0;
+  object-fit: cover;
+}
+
+.DENTAL-CLINIC .overlap-7 {
+  position: absolute;
+  width: 426px;
+  height: 300px;
+  top: 2723px;
+  left: 428px;
+  background: linear-gradient(180deg, rgb(0, 150, 213) 0%, rgb(0, 169, 211) 100%);
+}
+
+.DENTAL-CLINIC .text-wrapper-48 {
+  position: absolute;
+  top: 41px;
+  left: 77px;
+  font-family: "Calibri-BoldItalic", Helvetica;
+  font-weight: 700;
+  font-style: italic;
+  color: #ffffff;
+  font-size: 36px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.DENTAL-CLINIC .lorem-ipsum-is {
+  position: absolute;
+  width: 305px;
+  height: 168px;
+  top: 105px;
+  left: 44px;
+  font-family: "Calibri-BoldItalic", Helvetica;
+  font-weight: 700;
+  font-style: italic;
+  color: #ffffff;
+  font-size: 16px;
+  text-align: justify;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.DENTAL-CLINIC .rectangle-35 {
+  position: absolute;
+  width: 426px;
+  height: 300px;
+  top: 2723px;
+  left: 854px;
+  object-fit: cover;
+}
+
+.DENTAL-CLINIC .kl-wrapper {
+  position: absolute;
+  width: 532px;
+  height: 554px;
+  top: 3734px;
+  left: 58px;
+  border-radius: 0px 193px 0px 0px;
+  border: 5px solid;
+  border-color: #00b3d0;
+}
+
+.DENTAL-CLINIC .kl {
+  position: absolute;
+  width: 492px;
+  height: 519px;
+  top: 18px;
+  left: 11px;
+  object-fit: cover;
+}
+
+.DENTAL-CLINIC .rectangle-36 {
+  position: absolute;
+  width: 1280px;
+  height: 40px;
+  top: 8312px;
+  left: 0;
+  background-color: #d9d9d9;
+}
+
+.DENTAL-CLINIC .rectangle-wrapper {
+  position: absolute;
+  width: 484px;
+  height: 531px;
+  top: 3757px;
+  left: 708px;
+  background-color: #00b3d0;
+  border-radius: 46px;
+}
+
+.DENTAL-CLINIC .rectangle-37 {
+  position: absolute;
+  width: 470px;
+  height: 504px;
+  top: 8px;
+  left: 9px;
+  object-fit: cover;
+}

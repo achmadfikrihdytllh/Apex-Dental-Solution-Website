@@ -1,0 +1,29 @@
+@import url("https://cdnjs.cloudflare.com/ajax/libs/meyer-reset/2.0/reset.min.css");
+* {
+  -webkit-font-smoothing: antialiased;
+  box-sizing: border-box;
+}
+html,
+body {
+  margin: 0px;
+  height: 100%;
+}
+/* a blue color as a generic focus style */
+button:focus-visible {
+  outline: 2px solid #4a90e2 !important;
+  outline: -webkit-focus-ring-color auto 5px !important;
+}
+a {
+  text-decoration: none;
+}
+
+@font-face {
+  font-family: "Calibri-BoldItalic";
+  src: url("https://anima-uploads.s3.amazonaws.com/5c79739b965b31000c3e6a68/Calibri Bold Italic.ttf") format("truetype");
+}
+
+@font-face {
+  font-family: "Calibri-Bold";
+  src: url("https://anima-uploads.s3.amazonaws.com/projects/6516db3d3915e9964b3cb608/fonts/calibrib.ttf")
+    format("truetype");
+}
